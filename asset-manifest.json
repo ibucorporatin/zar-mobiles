@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zar-mobiles/static/css/main.0ba4a917.css",
+    "main.js": "/zar-mobiles/static/js/main.acaebf7e.js",
+    "static/media/AdobeStock_562884714_Preview.png": "/zar-mobiles/static/media/AdobeStock_562884714_Preview.c8177f6b180cf0e0284e.png",
+    "static/media/photo.jpg": "/zar-mobiles/static/media/photo.f98a3a8e7f06bdc54bea.jpg",
+    "index.html": "/zar-mobiles/index.html",
+    "main.0ba4a917.css.map": "/zar-mobiles/static/css/main.0ba4a917.css.map",
+    "main.acaebf7e.js.map": "/zar-mobiles/static/js/main.acaebf7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba4a917.css",
+    "static/js/main.acaebf7e.js"
+  ]
+}
